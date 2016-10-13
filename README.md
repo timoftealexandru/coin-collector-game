@@ -1,5 +1,5 @@
-Javascript Coin Collector
-==========================
+Javascript Coin Collector Game
+==============================
 
 A small javascript game which involves collecting coins from the environment. 
 The level finish when all the coins are collected. 
